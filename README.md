@@ -146,3 +146,13 @@ This project includes some third-party data:
 ## See also
 
 [Chrome 拡張の高速な英語辞書ツールをつくりました](https://qiita.com/wtetsu/items/c43232c6c44918e977c9)(a Japanese tutorial)
+
+
+
+https://developer.chrome.com/blog/crx-scripting-api/
+https://bugs.chromium.org/p/chromium/issues/detail?id=1191971
+
+chrome://inspect/#service-workers
+chrome://serviceworker-internals/?devtools
+
+
